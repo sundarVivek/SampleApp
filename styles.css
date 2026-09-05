@@ -110,3 +110,159 @@
 .site-header .menu-toggle span {
   background-color: #ffffff !important;
 }
+
+/* ==========================================================================
+   Updated Navbar & Site Header to Dark Slate (#182522)
+   ========================================================================== */
+.site-header {
+  background-color: #182522 !important;
+  color: #ffffff !important;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.14) !important;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.15) !important;
+}
+
+.site-header .brand {
+  color: #ffffff !important;
+}
+
+.site-header .main-nav {
+  color: #ffffff !important;
+}
+
+.site-header .main-nav a {
+  color: #ffffff !important;
+  opacity: 0.9;
+  transition: opacity 0.2s ease, color 0.2s ease;
+}
+
+.site-header .main-nav a:hover,
+.site-header .main-nav a.active {
+  color: #ffffff !important;
+  opacity: 1;
+  font-weight: 700 !important;
+}
+
+.site-header .nav-login {
+  color: #ffffff !important;
+}
+
+.site-header .menu-toggle span {
+  background-color: #ffffff !important;
+}
+
+/* ==========================================================================
+   Updated Navbar & Site Header to Corporate Blue (#1976d2)
+   ========================================================================== */
+.site-header {
+  background-color: #1976d2 !important;
+  color: #ffffff !important;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.14) !important;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.15) !important;
+}
+
+.site-header .brand {
+  color: #ffffff !important;
+}
+
+.site-header .main-nav {
+  color: #ffffff !important;
+}
+
+.site-header .main-nav a {
+  color: #ffffff !important;
+  opacity: 0.9;
+  transition: opacity 0.2s ease, color 0.2s ease;
+}
+
+.site-header .main-nav a:hover,
+.site-header .main-nav a.active {
+  color: #ffffff !important;
+  opacity: 1;
+  font-weight: 700 !important;
+}
+
+.site-header .nav-login {
+  color: #ffffff !important;
+}
+
+.site-header .menu-toggle span {
+  background-color: #ffffff !important;
+}
+
+/* ==========================================================================
+   Updated Navbar & Site Header to #2563eb
+   ========================================================================== */
+.site-header {
+  background-color: #2563eb !important;
+  color: #ffffff !important;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.14) !important;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.15) !important;
+}
+
+.site-header .brand {
+  color: #ffffff !important;
+}
+
+.site-header .main-nav {
+  color: #ffffff !important;
+}
+
+.site-header .main-nav a {
+  color: #ffffff !important;
+  opacity: 0.9;
+  transition: opacity 0.2s ease, color 0.2s ease;
+}
+
+.site-header .main-nav a:hover,
+.site-header .main-nav a.active {
+  color: #ffffff !important;
+  opacity: 1;
+  font-weight: 700 !important;
+}
+
+.site-header .nav-login {
+  color: #ffffff !important;
+}
+
+.site-header .menu-toggle span {
+  background-color: #ffffff !important;
+}
+
+/* ==========================================================================
+   Updated Navbar & Site Header to Emerald Green (#10b981)
+   ========================================================================== */
+.site-header {
+  background-color: #10b981 !important;
+  color: #ffffff !important;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.14) !important;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.15) !important;
+}
+
+.site-header .brand {
+  color: #ffffff !important;
+}
+
+.site-header .main-nav {
+  color: #ffffff !important;
+}
+
+.site-header .main-nav a {
+  color: #ffffff !important;
+  opacity: 0.9;
+  transition: opacity 0.2s ease, color 0.2s ease;
+}
+
+.site-header .main-nav a:hover,
+.site-header .main-nav a.active {
+  color: #ffffff !important;
+  opacity: 1;
+  font-weight: 700 !important;
+}
+
+.site-header .nav-login {
+  color: #ffffff !important;
+}
+
+.site-header .menu-toggle span {
+  background-color: #ffffff !important;
+}
