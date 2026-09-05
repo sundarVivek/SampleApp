@@ -110,3 +110,40 @@
 .site-header .menu-toggle span {
   background-color: #ffffff !important;
 }
+
+/* ==========================================================================
+   Updated Navbar & Site Header to Emerald Green (#10b981)
+   ========================================================================== */
+.site-header {
+  background-color: #10b981 !important;
+  color: #ffffff !important;
+  box-shadow: 0 2px 12px rgba(16, 185, 129, 0.22) !important;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.15) !important;
+}
+
+.site-header .brand {
+  color: #ffffff !important;
+}
+
+.site-header .main-nav {
+  color: #f0fdf4 !important;
+}
+
+.site-header .main-nav a {
+  color: #f0fdf4 !important;
+  transition: color 0.2s ease;
+}
+
+.site-header .main-nav a:hover,
+.site-header .main-nav a.active {
+  color: #ffffff !important;
+  font-weight: 700 !important;
+}
+
+.site-header .nav-login {
+  color: #ffffff !important;
+}
+
+.site-header .menu-toggle span {
+  background-color: #ffffff !important;
+}
