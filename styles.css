@@ -305,3 +305,42 @@
 .site-header .menu-toggle span {
   background-color: #ffffff !important;
 }
+
+/* ==========================================================================
+   Updated Navbar & Site Header to Sunset Orange (#ea580c)
+   ========================================================================== */
+.site-header {
+  background-color: #ea580c !important;
+  color: #ffffff !important;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.14) !important;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.15) !important;
+}
+
+.site-header .brand {
+  color: #ffffff !important;
+}
+
+.site-header .main-nav {
+  color: #ffffff !important;
+}
+
+.site-header .main-nav a {
+  color: #ffffff !important;
+  opacity: 0.9;
+  transition: opacity 0.2s ease, color 0.2s ease;
+}
+
+.site-header .main-nav a:hover,
+.site-header .main-nav a.active {
+  color: #ffffff !important;
+  opacity: 1;
+  font-weight: 700 !important;
+}
+
+.site-header .nav-login {
+  color: #ffffff !important;
+}
+
+.site-header .menu-toggle span {
+  background-color: #ffffff !important;
+}
