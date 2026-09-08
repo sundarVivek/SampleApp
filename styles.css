@@ -342,3 +342,40 @@
 .site-header .menu-toggle span {
   background-color: #ffffff !important;
 }
+
+
+/* ==========================================================================
+   DT-26: Header Deep Teal Styling Update
+   ========================================================================== */
+.site-header {
+  background-color: #0c756e !important;
+  color: #ffffff !important;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.18) !important;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08) !important;
+}
+
+.site-header .brand {
+  color: #ffffff !important;
+}
+
+.site-header .main-nav {
+  color: #d4e1d6 !important;
+}
+
+.site-header .main-nav a {
+  color: #d4e1d6 !important;
+  transition: color 0.2s ease;
+}
+
+.site-header .main-nav a:hover,
+.site-header .main-nav a.active {
+  color: #ffffff !important;
+}
+
+.site-header .nav-login {
+  color: #ffffff !important;
+}
+
+.site-header .menu-toggle span {
+  background-color: #ffffff !important;
+}
